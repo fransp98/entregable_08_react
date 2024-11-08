@@ -1,0 +1,7 @@
+.total-price {
+  height: 41px;
+  display: flex;
+  align-items: center;
+  background-color: rgba(50, 187, 146, 0.363);
+  border-radius: 5px;
+}
